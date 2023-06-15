@@ -6,4 +6,4 @@ This repository contains some basic code to analyse the data of some tests which
 _Graphs for the 8 tests with a bandwidth of 406250hz_
 
 ![Graphs for the 8 tests with a bandwidth of 812500hz](https://raw.githubusercontent.com/1Blademaster/lora-test-analysis/main/bandwidth_8_tests.png)
-_Graphs for the 8 tests with a bandwidth of 406250hz_
+_Graphs for the 8 tests with a bandwidth of 812500hz_
